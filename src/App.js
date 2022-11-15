@@ -11,8 +11,8 @@ function App() {
   const times = [
     {
       nome:'Programação',
-      corPrimaria:'#57C278',
-      corSecundaria:'#D9F7E9'
+      corPrimaria:'#82CFFA',
+      corSecundaria:'#E8F8FF'
     },
     {
       nome:'Design',
